@@ -1,0 +1,13 @@
+.red {
+  background-color: red;
+}
+
+.big {
+  font-size: 2rem;
+}
+
+.big-title {
+  color: green;
+  font-size: 5rem;
+  font-family: monospace;
+}
